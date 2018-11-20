@@ -6,3 +6,7 @@ https://manage.auth0.com/#/apis
 auth0.issuer=https://purple-pelican.eu.auth0.com/
 #APIs custom APIs, API Audience is this identifier
 auth0.apiAudience=http://localhost:8080
+
+see
+
+https://github.com/auth0-samples/auth0-spring-security-api-v1-sample/blob/master/src/main/java/com/auth0/sample/api/security/HSSecurityConfig.java
