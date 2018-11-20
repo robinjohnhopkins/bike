@@ -1,11 +1,5 @@
-spring.jpa.database-platform=org.hibernate.dialect.SQLiteDialect
-spring.jpa.hibernate.ddl-auto=none
-spring.jpa.show-sql=true
+https://manage.auth0.com/#/apis
 
-spring.datasource.url=jdbc:sqlite:bike.db
-spring.datasource.username=
-spring.datasource.password=
-spring.datasource.driver-class-name=org.sqlite.JDBC
 
 #purple-pelican.eu.auth0.com is https://manage.auth0.com Applications Default App Domain 
 #also more pertinent APIs custom APIs name
